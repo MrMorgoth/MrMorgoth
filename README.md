@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name's Christian. I'm a self-taught developer working with Python and JS, with a side role frequenting the pub with friends. I'm on the look out for an entry level engineering role! Get in touch if you know of an opportunity you think i'd be a fit for.
+My name's Christian. I'm a self-taught developer working with Python and JS, with a side role frequenting the pub with friends. I'm on the look out for an entry level engineering role! 
+
+Get in touch if you know of an opportunity you think i'd be a fit for.
 
 How to reach me: https://www.linkedin.com/in/christian-avery/
 <!--
