@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name's Christian. I'm a self-taught developer working with Python and JS, with a side role frequenting the pub with friends. I'm on the look out for an entry level engineering role! 
+My name's Christian. I'm a developer working with Python, Java and JS, with a side role frequenting the pub with friends.
+
+Currently completing a Masters Degree in Computer Science with AI part-time alongside full time software engineering work
 
 Get in touch if you know of an opportunity you think i'd be a fit for.
 
