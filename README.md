@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Christian. I'm a developer working with Python, Java and JS, with a side role frequenting the pub with friends.
+My name's Christian. I'm a developer working with Python and Java with a side role frequenting the pub with friends.
 
 Currently completing a Masters Degree in Computer Science with AI part-time alongside full time software engineering work
 
