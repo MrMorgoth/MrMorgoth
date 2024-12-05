@@ -4,7 +4,6 @@ My name's Christian. I'm a developer working with Python and Java with a side ro
 
 Currently completing a Masters Degree in Computer Science with AI part-time alongside full time software engineering work
 
-Get in touch if you know of an opportunity you think i'd be a fit for.
 
 How to reach me: https://www.linkedin.com/in/christian-avery/
 <!--
